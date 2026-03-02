@@ -46,7 +46,7 @@ Sistem persamaan linear dapat direpresentasikan secara ringkas dengan notasi $\m
 
 ## 5. Matriks Augmentasi (*Augmented Matrix*)
 
-Untuk mempermudah perhitungan, kita menggunakan matriks augmentasi $[A \mid \mathbf{b}]$. Bentuknya dalam LaTeX adalah sebagai berikut:
+Untuk mempermudah perhitungan, kita menggunakan matriks augmentasi $[A \mid \mathbf{b}]$. Bentuknya dalam adalah sebagai berikut:
 
 $$
 \left[
@@ -58,3 +58,4 @@ a_{m1} & a_{m2} & \dots & a_{mn} & b_m
 \end{array}
 \right]
 $$
+
