@@ -21,7 +21,7 @@ $$a_1x_1 + a_2x_2 + \dots + a_nx_n = b$$
 Sistem persamaan linear merupakan himpunan atau kumpulan dari beberapa persamaan linear. 
 
 * Sistem ini dikatakan **homogen** apabila seluruh persamaan di dalamnya adalah persamaan homogen. 
-* Penulisan matematis menggunakan indeks ganda $a_{ij}$, di mana $i$ menunjukkan posisi baris dan $j$ menunjukkan variabel ke-$j$.
+* Penulisan matematis menggunakan indeks ganda $a_{ij}$, di mana $i$ menunjukkan posisi baris dan $j$ menunjukkan variabel ke-j.
 
 ---
 
@@ -58,4 +58,5 @@ a_{m1} & a_{m2} & \dots & a_{mn} & b_m
 \end{array}
 \right]
 $$
+
 
