@@ -29,4 +29,5 @@ Sistem persamaan linear dapat direpresentasikan secara ringkas dengan notasi $\m
 ## 5. Matriks Augmentasi (*Augmented Matrix*)
 Untuk mempermudah perhitungan, sistem persamaan linear direpresentasikan menggunakan matriks augmentasi yang ditulis dengan simbol $[A \mid \mathbf{b}]$.
 * Matriks ini dibentuk dengan menggabungkan kolom-kolom matriks koefisien $A$ dan menambahkan vektor konstanta $\mathbf{b}$ sebagai kolom terakhir (kolom ke-$n+1$).
+
 * Matriks ini merangkum seluruh informasi penting dari sebuah sistem persamaan dengan mengabaikan penulisan nama variabelnya, sehingga posisinya murni ditentukan oleh letak baris dan kolom.
